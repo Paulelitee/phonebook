@@ -1,1 +1,7 @@
-get http://localhost:3001/localhost:3001/api/persons
+ get http://localhost:3001/api/persons/64f69720a2c583c5n83b58a54
+Content-Type: application/json
+
+{
+    "name": "Divine",
+    "number": "1234"
+}
